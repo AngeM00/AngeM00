@@ -1,18 +1,33 @@
 <h1 aling="center">Hola 👋, mi nombre es Angelika.</h1>
 
-<img align="right" alt="GIF" src="https://github.com/AngeM00/AngeM00/assets/138608037/9afd907a-6a59-4913-ae63-e6857c0f6de3" width="500"/>
+<img align="right" alt="gif" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<h3>👨🏻‍💻 &nbsp; Acerca de Mi </h3>
+<h3>👨🏻‍💻 &nbsp; Acerca de mi: </h3>
+
 - 🎓 &nbsp;  Estudiante de Ingeniería
+
 - 🤔 &nbsp;  Explorando nuevas tecnologías y lenguajes.
+
 - 🌱 &nbsp;  Interesada en la Seguridad Informática.
+  
 - 🏋️ &nbsp;  Con pasion por el deporte.
 
-<h3>🔧 &nbsp; Technologies & Tools </h3>
+<h3>🔧 &nbsp; Tecnologías y herramientas: </h3>
 
-💻 &nbsp;  Python | C++ | C#
+<div>
+  <img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=40 height = 40>
+  <img alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width=40 height = 40>
+  <img alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width=40 height = 40>
+  <img alt="JVS" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=40 height = 40>
+  <img alt="Linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width=40 height = 40>
+  <img alt="VSC" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=40 height = 40>
+</div>
 
-🌐 &nbsp;  HTML | CSS | JavaScript 
+<h3> 📖 &nbsp; Aprendiendo </h3>
+
+🐲 &nbsp; Kali Linux y maquinas HTB
+
+💻&nbsp; C#
 
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AngelM00&count_private=true&line_height=20&show_icons=true&theme=radical&include_all_commits=true" alt="AngelM00's Github Stats">
@@ -21,3 +36,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelM00&size_weight=0.5&count_weight=0.5&layout=compact&text_color=daf7dc&bg_color=151515)
 
 
+⭐️ From [AngelM00](https://github.com/AngelM00)
