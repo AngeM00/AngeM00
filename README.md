@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 aling="center">Hola 👋, mi nombre es Angelika.</h1>
 
-<!--
-**AngeM00/AngeM00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![desarrolladora](https://github.com/AngeM00/AngeM00/assets/138608037/9afd907a-6a59-4913-ae63-e6857c0f6de3)
 
-Here are some ideas to get you started:
+👨🏻‍💻 Acerca de Mi
+- 🎓   Estudiante de Ingeniería
+- 🤔   Explorando nuevas tecnologías y lenguajes.
+- 🌱   Interesada en la Seguridad Informática.
+- ✍️   Watching Anime and trying out latest design trends as hobbies/side hustles.
+- 🏋️   Con pasion por el deporte.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technologies & Tools
+
+💻   Python | C++ | C#
+
+🌐   HTML | CSS | JavaScript 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AngelM00&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelM00&size_weight=0.5&count_weight=0.5)
+
+
