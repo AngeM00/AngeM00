@@ -2,7 +2,7 @@
 
 <img align="right" alt="gif" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<h3>👨🏻‍💻 &nbsp; Acerca de mi: </h3>
+<h3>👨🏻‍💻 &nbsp; About Me: </h3>
 
 - 🎓 &nbsp;  Estudiante de Ingeniería
 
@@ -12,7 +12,7 @@
   
 - 🏋️ &nbsp;  Con pasion por el deporte.
 
-<h3>🔧 &nbsp; Tecnologías y herramientas: </h3>
+<h3>🔧 &nbsp; Languages and Tools: </h3>
 
 <div>
   <img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=40 height = 40>
@@ -29,9 +29,10 @@
 
 💻&nbsp; C#
 
-<br>
+---
+
+<h3>📊 My Stats:</h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AngelM00&count_private=true&line_height=20&show_icons=true&theme=radical&include_all_commits=true" alt="AngelM00's Github Stats">
-</br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelM00&size_weight=0.5&count_weight=0.5&layout=compact&text_color=daf7dc&bg_color=151515)
 
