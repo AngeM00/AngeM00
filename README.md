@@ -23,7 +23,7 @@
   <img alt="VSC" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=40 height = 40>
 </div>
 
-<h3> 📖 &nbsp; Aprendiendo </h3>
+<h3> 📖 &nbsp; Learning </h3>
 
 🐲 &nbsp; Kali Linux y maquinas HTB
 
