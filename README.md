@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp;  Explorando nuevas tecnologías y lenguajes.
 
-- 🌱 &nbsp;  Interesada en la Seguridad Informática.
+- 🌱 &nbsp;  Interesada en la Seguridad Informática y el Frontend.
   
 - 🏋️ &nbsp;  Con pasion por el deporte.
 
@@ -21,11 +21,12 @@
   <img alt="JVS" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=40 height = 40>
   <img alt="Linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width=40 height = 40>
   <img alt="VSC" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=40 height = 40>
+  <img alt="VSC" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width=40 height = 40>
 </div>
 
 <h3> 📖 &nbsp; Learning </h3>
 
-🐲 &nbsp; Kali Linux y maquinas HTB
+🐲 &nbsp; Kali Linux, maquinas HTB y Taildwind
 
 💻&nbsp; C#
 
